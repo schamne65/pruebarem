@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-size: 59%;
+}
+
+header{
+    display: flex;
+
+    
+}
+
+header div nav ul{
+    display: flex;
+    list-style: none;
+    
+}
+
+h1{font-size: 20rem;}
+
+header div nav ul li{
+    text-decoration: none;
+    padding: 1rem;
+}
+
+header div nav ul li a{
+    text-decoration: none;
+    font-size: 5rem;
+}

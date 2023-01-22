@@ -2,7 +2,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    font-size: 59%;
+    
 }
 
 header{
@@ -17,7 +17,7 @@ header div nav ul{
     
 }
 
-h1{font-size: 20rem;}
+h1{font-size: 5rem;}
 
 header div nav ul li{
     text-decoration: none;
@@ -26,5 +26,5 @@ header div nav ul li{
 
 header div nav ul li a{
     text-decoration: none;
-    font-size: 5rem;
+    font-size: 2rem;
 }
